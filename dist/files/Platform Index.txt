@@ -1,0 +1,24 @@
+ * 0  	Air Block
+ * 1  	Solid Block				?
+ * 2  	Spike Block				?
+ * 3  	Fall Away Block				! - 
+ * 4  	Bouncy Block				! - 
+ * 5  	Conveyor Left Block			!
+ * 6  	Conveyor Right Block			!
+ * 7  	Spawner Block				! - 
+ * 8  	Spawner Power Up Block
+ * 9  	Water Block
+ * 10  	Disappear Block				! - 
+ * 11 	No Player Block				! -
+ * 12 	Spawner Bullet Block			! - 
+ * 13 	Breakable Block				! - 
+ * 14 	Power Up Health Block			! - 
+ * 15 	Power Up Projectile Block
+ * 16 	Action Block
+ * 17 	Placement Flying Enemy Block
+ * 18 	Placement Talkable Character Block
+ * 19 	Placement Memory Character Block
+ * 20 	Placement Player Block
+ * 21 	Level Changer Block			?
+ * 22 	Placement Basic Enemy Block
+ * 23 	Power Up Invincible Block
